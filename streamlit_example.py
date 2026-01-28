@@ -21,4 +21,4 @@ st.line_chart(data.set_index('Day'))
 #To Run This 
 #Open bash Terminal 
 
-## streamlit run streamlit_example.py 
+## streamlit run streamlit_example.py --server.port 8050
